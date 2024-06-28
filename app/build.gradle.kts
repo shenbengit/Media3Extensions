@@ -44,6 +44,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.media3.exoplayer)
     implementation(project(":ffmpeg"))
+//    implementation("io.github.shenbengit.media3-extensions:ffmpeg:1.0.0")
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
