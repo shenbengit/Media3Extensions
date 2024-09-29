@@ -1,7 +1,7 @@
 # Media3Extensions
 # Media3扩展库
 [Media3](https://github.com/androidx/media)版本：1.3.1    
-如果你需要使用ExoPlayer的扩展库，详见 [ExoPlayerExtensions](https://github.com/shenbengit/ExoPlayerExtensions)
+如果你需要使用[ExoPlayer](https://github.com/google/ExoPlayer)的扩展库，详见 [ExoPlayerExtensions](https://github.com/shenbengit/ExoPlayerExtensions)
 ## 目前支持：
 ### FFmpeg
 目前官方只支持**音频解码**    
